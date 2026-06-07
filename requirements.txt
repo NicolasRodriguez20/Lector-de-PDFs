@@ -1,0 +1,14 @@
+tkinter
+os
+pytesseract
+threading
+datetime
+time
+keyboard
+PyPDF2
+json
+asyncio
+tempfile
+edge_tts
+pygame
+pyttsx3
