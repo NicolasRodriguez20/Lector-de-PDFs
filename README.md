@@ -1,4 +1,4 @@
-# Smart PDF Reader
+# Lector de PDFs
 
 Aplicación de escritorio desarrollada en Python para leer documentos PDF mediante síntesis de voz.
 
@@ -22,3 +22,7 @@ Aplicación de escritorio desarrollada en Python para leer documentos PDF median
 
 ## Capturas
 
+![Ventana Principal](Screenshots/main.jpg)
+![Ventana Principal](Screenshots/historial.jpg)
+![Ventana Principal](Screenshots/lectura.jpg)
+![Ventana Principal](Screenshots/imagenes.jpg)
